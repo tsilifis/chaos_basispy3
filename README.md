@@ -7,7 +7,7 @@ Author:       Panagiotis Tsilifis
 Affiliation:  Probabilistic Design & Optimization Group,  
               General Electric Research, Niskayuna, NY 12309, United States
 
-email address: panagiotis.tsilifis@ge.com
+email address: panagiotis.tsilifis@ge.com,
                pantsili@gmail.com
 
 Description
