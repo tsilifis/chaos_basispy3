@@ -1,13 +1,14 @@
-# chaos_basispy
+# chaos_basispy (Python 3 version)
 A Polynomial Chaos Basis Reduction module
 =======================================
 
 Author:       Panagiotis Tsilifis
 
-Affiliation:  CSQI, Institure of Mathematics, 
-              École Polytechnique Fédérale de Lausanne, Lausanne, CH-1015, Switzerland
+Affiliation:  Probabilistic Design & Optimization Group,  
+              General Electric Research, Niskayuna, NY 12309, United States
 
-email address: panagiotis.tsilifis@epfl.ch
+email address: panagiotis.tsilifis@ge.com
+               pantsili@gmail.com
 
 Description
 -----------
@@ -28,11 +29,11 @@ Due to the above, this module considers only Hermite and Legendre Chaos expansio
 
 Module Requirements
 -------------------
-### Python 2.7:
+### Python 3.6:
 
 - Numpy (1.13.1)
 
-- Scipy (0.18.1)
+- Scipy (1.2.1)
 
 
 Module Capabilities
