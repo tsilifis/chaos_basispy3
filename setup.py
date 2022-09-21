@@ -24,4 +24,5 @@ setup(name='chaos_basispy',
 	author_email = 'pantsili@gmail.com',
 	keywords = ['polynomial chaos', 'hermite chaos', 'legendre_chaos', 'dimensionality reduction', 'surrogate', 'uncertainty quantification'],
 	packages = ['chaos_basispy'],
+	python_requires=">=3.6",
 	install_requires=requirements)
