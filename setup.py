@@ -1,5 +1,8 @@
 from setuptools import setup
 
+with open("requirements.txt") as f:
+	requirements = [line.strip() for line in f]
+
 setup(name='chaos_basispy',
 	version = '0.2.1',
 	description = 'A package for Polynomial Chaos basis rotation',
@@ -20,4 +23,6 @@ setup(name='chaos_basispy',
 	author = 'Panagiotis Tsilifis',
 	author_email = 'pantsili@gmail.com',
 	keywords = ['polynomial chaos', 'hermite chaos', 'legendre_chaos', 'dimensionality reduction', 'surrogate', 'uncertainty quantification'],
-	packages = ['chaos_basispy'])
+	packages = ['chaos_basispy'],
+	python_requires=">=3.6",
+	install_requires=requirements)

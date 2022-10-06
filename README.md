@@ -13,7 +13,7 @@ email address: panagiotis.tsilifis@ge.com,
 Description
 -----------
 
-The package 'chaos_basispy' defines the 'chaos_basispy' module which attempts to 
+The package `chaos_basispy` defines the `chaos_basispy` module which attempts to 
 collect the recently developed Basis Adaptation (BA) techniques that have been developed 
 particularly for Polynomial Chaos expansions (PCE). 
 
